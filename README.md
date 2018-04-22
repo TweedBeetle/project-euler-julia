@@ -1,2 +1,2 @@
 # project-euler-julia
-Collection of exercises written in julia
+Collection of [project euler](https://projecteuler.net/) exercises written in [julia](https://julialang.org/)
